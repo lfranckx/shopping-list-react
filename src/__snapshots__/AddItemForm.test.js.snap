@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AddItemForm component renders the complete form 1`] = `
+<form
+  onSubmit={[Function]}
+>
+  <input
+    aria-label="Shopping list item"
+    name="itemToAdd"
+    placeholder="carrots"
+    type="text"
+  />
+  <button
+    type="submit"
+  >
+    Add Item
+  </button>
+</form>
+`;
